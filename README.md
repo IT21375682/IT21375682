@@ -3,7 +3,7 @@
 🎓 BSc (Hons) in Information Technology – Software Engineering @ SLIIT  
 💼 Full-Stack Developer | Software Engineer | AI Explorer  
 📍 Colombo, Sri Lanka  
-📫 shandeepjayapalan@gmail.com • 🌐 [Portfolio](https://shandeep.site)
+📫 jeyapalansanju@gmail.com • 🌐 [Portfolio](https://shandeep.site)
 
 ---
 
