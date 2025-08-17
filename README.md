@@ -73,7 +73,7 @@ E-commerce & delivery platforms with AI and automation
 - 🌐 [Portfolio Website](https://shandeep.site)  
 - 💼 [LinkedIn](https://linkedin.com/in/shandeepjayapalan)  
 - 💻 [GitHub](https://github.com/IT21375682)  
-- 📬 shandeepjayapalan@gmail.com
+- 📬 jeyapalansanju@gmail.com
 
 > "Code is the closest thing we have to a superpower." – Drew Houston  
 I build software that solves real problems. Let’s create something impactful! 🚀
